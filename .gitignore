@@ -1,0 +1,37 @@
+# ------------------------------------
+# 1. PYTHON ENVIRONMENT & PACKAGES
+# ------------------------------------
+# Ignore the virtual environment folder
+venv/
+.venv/
+env/
+
+# Byte-code and compiled files
+__pycache__/
+*.pyc
+
+# Distribution/package files
+dist/
+build/
+*.egg-info/
+
+# ------------------------------------
+# 2. LOCAL DATA AND SECRETS
+# ------------------------------------
+# CRITICAL: Ignore user-uploaded files and processing outputs
+video_uploads/
+video_processing_storage/
+*.log
+
+# ------------------------------------
+# 3. IDE AND OS FILES
+# ------------------------------------
+# Common Operating System files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm/IntelliJ IDEA
+.idea/
