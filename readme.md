@@ -169,4 +169,4 @@ Problem: The Groq or Gemini key you pasted into the website is wrong.
 
 Fix: You might have copied a space by accident, or swapped the keys. Go back to your Groq/Gemini dashboard, generate a brand new key, and very carefully paste it into the website. This fixes it 99% of the time.
 
-You've built an amazing, complex system. Congratulations, Dr. Giva!
+You've built an amazing, complex system. Congratulations, Developer !
