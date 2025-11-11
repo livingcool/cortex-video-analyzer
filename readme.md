@@ -1,10 +1,10 @@
-🧠 Welcome to the Cortex Video Analyzer!
+# 🧠 Welcome to the Cortex Video Analyzer!
 
-Hello there! This is a very special project that acts like a robot with super-senses. You give it a video, and it watches, listens, and reads everything in it, all at the same time.
+## Hello there! This is a very special project that acts like a robot with super-senses. You give it a video, and it watches, listens, and reads everything in it, all at the same time.
 
 Then, it uses a super-smart "brain" (AI) to write a beautiful report telling you what the video was about, what was said, and what was on the screen.
 
-How It Works (It's Like a Restaurant!)
+### How It Works (It's Like a Restaurant!)
 
 To make this work, we have to run 4 different programs at the same time. Think of it like a magical restaurant:
 
