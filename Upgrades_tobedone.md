@@ -1,0 +1,2 @@
+
+If I upload a video which is more than 30 secondsit analysis way too long for example the tesseract OCR isanalyzing endlessly for the one minute 45 seconds it should be running the desert Oscar for the frames till 105 secondsbut it is running more than that are the two endlesslyThe last turn I have rent it approximately for 514 seconds whichclearly exceeds the duration for video and this is a problemthat should be rectified as soon as possibleThank youThis is the first portion of the problem not yet for rectifiedand today is November 17 the time is 12 12pm
